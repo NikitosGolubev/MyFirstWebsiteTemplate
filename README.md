@@ -1,3 +1,7 @@
+https://nikitosgolubev.github.io/myFirstWebsiteTemplate/
+https://nikitosgolubev.github.io/myFirstWebsiteTemplate/
+https://nikitosgolubev.github.io/myFirstWebsiteTemplate/
+
 # My First Website Template
 The starting point of my road as a developer. June 2016.
 
